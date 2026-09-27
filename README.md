@@ -2,7 +2,9 @@
 
 **Repository health analysis and repair tool.**
 
-RepoMedic analyzes a software repository, identifies problems, explains likely root causes, suggests or safely applies fixes, verifies changes, calculates a health score, analyzes dependency impact, and validates whether the repository is safe to proceed with.
+RepoMedic analyzes a software repository, identifies problems, explains likely root causes, suggests or safely applies fixes, verifies changes, calculates a health score, analyzes dependency impact, and validates whether the repository is safe to proceed with.  
+
+We created this project as part of the IBM BOB 2.0 Hackathon🧑🏻‍💻💻
 
 ---
 
